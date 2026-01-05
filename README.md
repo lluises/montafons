@@ -7,6 +7,17 @@ Python library to generate an image _collage_ from other images. I mainly use it
 - **Licence**: https://www.mozilla.org/en-US/MPL/2.0/
 
 
+# Installation
+
+This project is available in PyPI: https://pypi.org/project/montafons
+
+You can install it in your machine by just doing:
+
+```
+pip install montafons
+```
+
+
 # Usage
 
 This python library can be used as a CLI tool or as a library for another project.
